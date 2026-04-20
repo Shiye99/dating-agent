@@ -2,7 +2,7 @@
 
 ## 项目简介
 
-本仓库是一个基于 **Mikey 搭讪玩家TV** 方法论构建的约会智能体知识库，采用标准 Agent Skill 规范组织，可直接接入 Dify、Coze、Claude Code 等平台使用。
+本仓库是一个基于 **多个搭讪Youtub频道 内容构建而来** 方法论构建的约会智能体知识库，采用标准 Agent Skill 规范组织，可直接接入 Dify、Coze、Claude Code 等平台使用。
 
 ## 训练集来源
 
